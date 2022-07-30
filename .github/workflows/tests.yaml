@@ -1,4 +1,4 @@
-name: Laravel Tests
+name: Laravel Test
 on:
   pull_request:
     branches:
